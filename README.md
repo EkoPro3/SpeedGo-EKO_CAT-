@@ -3,6 +3,10 @@
 
 
 
+
+cd /storage/emulated/0/Download/cd /storage/emulated/0/Download/
+
+
 1 >>>> bash SpeedGo.sh 
 
 
